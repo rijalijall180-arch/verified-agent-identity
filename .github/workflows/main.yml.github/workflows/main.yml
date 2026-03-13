@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'Rjall.ial.json'
         required: true
-        default: 'Nama_Agen_Kamu'
+        default: 'Rjall.ial.json'
       agent_description:
         description: 'Deskripsi Agen'
         required: true
